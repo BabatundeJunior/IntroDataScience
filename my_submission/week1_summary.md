@@ -3,7 +3,6 @@
 Week 1 was mainly about setting up the tools and understanding the basic workflow for data science. Instead of jumping straight into analysis, I focused on learning the tools I’ll be using throughout the course and how they work together.
 
 The main tools were:
-
 - Python for coding
 - Polars for working with data
 - Plotly for visualizations
