@@ -1,0 +1,41 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.20.2"
+  },
+  "cells": [
+    {
+      "id": "yBGA",
+      "code_hash": "4ae428322e6e9c70e57746c7db031b79",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='yBGA-0' random-id='7038d250-e1d9-03c7-843c-597cc18100fd'><marimo-slider data-initial-value='50' data-label='null' data-start='1' data-stop='100' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bJah",
+      "code_hash": "f4402ac4b636ea4a504d115000814378",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "The number is: 29\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    }
+  ]
+}

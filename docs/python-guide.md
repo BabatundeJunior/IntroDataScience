@@ -135,7 +135,7 @@ print(f"My name is {name} and I am {age} years old.")
 5 - 3     # 2   (subtraction)
 5 * 3     # 15  (multiplication)
 5 / 3     # 1.666... (division — always returns a float)
-5 // 3    # 1   (floor division — rounds down)
+5 // 3    # 1   (floor zzxzdivision — rounds down)
 5 % 3     # 2   (modulo — the remainder)
 5 ** 3    # 125 (exponentiation — 5 to the power of 3)
 ```
@@ -238,7 +238,7 @@ print(colors)   # {"red", "blue", "green"}
 temperature = 25
 
 if temperature > 30:
-    print("It's hot!")
+    print("It's hot!")1
 elif temperature > 20:
     print("It's warm.")
 else:
