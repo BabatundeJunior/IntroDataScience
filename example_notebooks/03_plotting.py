@@ -1,6 +1,16 @@
+# /// script
+# requires-python = ">=3.14"
+# dependencies = [
+#     "marimo>=0.22.0",
+#     "plotly[express]>=6.6.0",
+#     "polars>=1.39.3",
+#     "statsmodels>=0.14.6",
+# ]
+# ///
+
 import marimo
 
-__generated_with = "0.19.6"
+__generated_with = "0.22.0"
 app = marimo.App(width="medium")
 
 
@@ -427,6 +437,7 @@ def _(mo):
 @app.cell
 def _():
     import marimo as mo
+
     return (mo,)
 
 
